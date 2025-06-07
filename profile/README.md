@@ -7,7 +7,7 @@ This project involves the development of a **web solution for supermarkets** tha
 ## 🛠️ Technologies
 
 **Backend – Microservices architecture:**
-- **Business logic:** Spring Boot 3.4.2 with Java 21.
+- **Business logic:** Spring Boot 3.5.0 with Java 21.
 - **Database:** PostgreSQL for relational persistence.
 - **Semantic processing:** SentenceTransformers connected via gRPC to Spring Boot for text vector generation.
 - **Advanced search:** Elasticsearch for hybrid (vector + BM25) search.
